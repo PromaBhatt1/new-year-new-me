@@ -1,0 +1,12 @@
+nav {
+    background-image: url('../images/banner/banner2.png');
+    position: relative;
+    width: 1600px;
+    height: 810px;
+}
+.banner-title {
+    width: 500px;
+    color: var(--Dark-01, #151414);
+    font-weight: 600px;
+    font-size: 50px;
+}
